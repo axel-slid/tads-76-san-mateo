@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tads-76-san-mateo.vercel.app/sitemap.xml
